@@ -36,7 +36,10 @@ const StyledDiv = styled.section`
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 30px;
-  padding-top: 100px;
+  padding-top: 200px;
+  padding-bottom: 80px;
+
+
   .heroImg-div {
     width: 65%;
     margin-left: 100px;
@@ -64,7 +67,7 @@ const StyledDiv = styled.section`
     p {
       width: 65%;
       text-align: justify;
-      margin-left: 40px;
+      margin-left: 70px;
       color: RGB(120, 120, 120);
       font-size: 16px;
       font-weight: 400;
@@ -75,7 +78,7 @@ const StyledDiv = styled.section`
       grid-template-columns: repeat(2, 1fr);
       margin-top: 20px;
       width: 68%;
-      margin-left: 32px;
+      margin-left: 60px;
     }
     button {
       text-align: center;
@@ -102,6 +105,36 @@ const StyledDiv = styled.section`
       background-color: #585858;
     }
   }
+
+ 
+
+  @media (max-width: 1000px) {
+display: block;
+padding-top: 120px;
+
+.hero-text{
+
+p{
+  font-size: 14px;
+}
+}
+
+.heroImg-div{
+  margin-top: 50px;
+}
+
+.hero-img{
+    margin-left: -30px;
+  }
+  
+
+  .thick-img{
+        text-align: end;
+        margin-right: 130px;
+    }
+
+
+}
 `;
 
 export default Hero;
