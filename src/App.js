@@ -1,20 +1,10 @@
 import './App.css';
-import Footer from './components/Footer';
-import Hero from './components/Hero';
-import Hire from './components/Hire';
-import Impact from './components/Impact';
-import Navbar from './components/Navbar';
-import Talents from './components/Talents';
+import Home from './pages/Home';
 
 function App() {
   return (
     <>
-      <Navbar />
-      <Hero />
-      <Impact />
-      <Talents />
-      <Hire />
-      <Footer />
+     <Home />
     </>
   );
 }
