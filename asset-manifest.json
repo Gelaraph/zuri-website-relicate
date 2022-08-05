@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/zuri-website-relicate/static/css/main.3ef6e32b.css",
+    "main.js": "/zuri-website-relicate/static/js/main.e98cc801.js",
+    "static/media/section1.png": "/zuri-website-relicate/static/media/section1.2bfd12a4f6c04d4aea6e.png",
+    "static/media/section2.png": "/zuri-website-relicate/static/media/section2.b5cb2187bbc623918013.png",
+    "static/media/ussa.svg": "/zuri-website-relicate/static/media/ussa.4903104d011818c1a1138c3194ca6e66.svg",
+    "static/media/GER.svg": "/zuri-website-relicate/static/media/GER.4838112cad26b044b1c5a8eaac43f235.svg",
+    "static/media/ENG.svg": "/zuri-website-relicate/static/media/ENG.30c3b9070b2c1008f6d0fc153dec95df.svg",
+    "static/media/NIG.svg": "/zuri-website-relicate/static/media/NIG.bb50e9b780e63c4ecb2bbfcba9001cf7.svg",
+    "static/media/logo1.svg": "/zuri-website-relicate/static/media/logo1.aad29e626e8ba8b97018314cda94c50a.svg",
+    "static/media/logo.svg": "/zuri-website-relicate/static/media/logo.3580658c83902127667252f1dce7dd67.svg",
+    "static/media/ind.svg": "/zuri-website-relicate/static/media/ind.233625167dd5d4193c49fb5eee75cca3.svg",
+    "static/media/many.svg": "/zuri-website-relicate/static/media/many.084ac137b88879df0b1a63eb7a8b1eab.svg",
+    "static/media/hand.svg": "/zuri-website-relicate/static/media/hand.2e663651bf223350dce58d19da7331cc.svg",
+    "static/media/write.svg": "/zuri-website-relicate/static/media/write.0b7f36cf3b25999f0e89e23639ee103c.svg",
+    "static/media/people.svg": "/zuri-website-relicate/static/media/people.8bb75a6b01d4fc4845452e76935ba6f4.svg",
+    "static/media/mech.svg": "/zuri-website-relicate/static/media/mech.ec98f41b6f08dd4244902369ecce51d3.svg",
+    "index.html": "/zuri-website-relicate/index.html",
+    "static/media/line1.svg": "/zuri-website-relicate/static/media/line1.0a2c0faa24d74cf1b8f782275af01b53.svg",
+    "static/media/thick2.svg": "/zuri-website-relicate/static/media/thick2.96317065c3a8aa42e3a1a391e562ee41.svg",
+    "main.3ef6e32b.css.map": "/zuri-website-relicate/static/css/main.3ef6e32b.css.map",
+    "main.e98cc801.js.map": "/zuri-website-relicate/static/js/main.e98cc801.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ef6e32b.css",
+    "static/js/main.e98cc801.js"
+  ]
+}
