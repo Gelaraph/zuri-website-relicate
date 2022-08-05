@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/zuri-website-relicate/static/css/main.3ef6e32b.css",
-    "main.js": "/zuri-website-relicate/static/js/main.e98cc801.js",
+    "main.js": "/zuri-website-relicate/static/js/main.23516d69.js",
     "static/media/section1.png": "/zuri-website-relicate/static/media/section1.2bfd12a4f6c04d4aea6e.png",
     "static/media/section2.png": "/zuri-website-relicate/static/media/section2.b5cb2187bbc623918013.png",
     "static/media/ussa.svg": "/zuri-website-relicate/static/media/ussa.4903104d011818c1a1138c3194ca6e66.svg",
@@ -20,10 +20,10 @@
     "static/media/line1.svg": "/zuri-website-relicate/static/media/line1.0a2c0faa24d74cf1b8f782275af01b53.svg",
     "static/media/thick2.svg": "/zuri-website-relicate/static/media/thick2.96317065c3a8aa42e3a1a391e562ee41.svg",
     "main.3ef6e32b.css.map": "/zuri-website-relicate/static/css/main.3ef6e32b.css.map",
-    "main.e98cc801.js.map": "/zuri-website-relicate/static/js/main.e98cc801.js.map"
+    "main.23516d69.js.map": "/zuri-website-relicate/static/js/main.23516d69.js.map"
   },
   "entrypoints": [
     "static/css/main.3ef6e32b.css",
-    "static/js/main.e98cc801.js"
+    "static/js/main.23516d69.js"
   ]
 }
